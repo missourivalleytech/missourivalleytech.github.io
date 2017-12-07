@@ -8,7 +8,8 @@
 #                                                 /____/
 #
 # Title of your website
-title: "MVT"
+title: "MISSOURI VALLEY TECH"
+
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: ""
@@ -23,7 +24,7 @@ author: Morganspeck
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://missourivalleytech.github.io'
+url: 'https://missourivalleytech.github.io'
 baseurl: ''
 
 
@@ -197,7 +198,7 @@ socialmedia:
 #
 # used in _includes/comments
 
- disqus_shortname: missourivalleytech
+# disqus_shortname:
 
 
 #      _____
@@ -221,7 +222,7 @@ sass:
 #
 # used in _includes/footer_scripts
 
- google_analytics_tracking_id:UA-110905859-1
+# google_analytics_tracking_id:
 
 
 
