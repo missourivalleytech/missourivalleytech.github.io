@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - linked
 breadcrumb: true
+comments: true
 ---
 
 [Patrick Wardle's](https://objective-see.com/blog/blog_0x13.html) reversal of [Shazam's](https://itunes.apple.com/us/app/shazam/id897118787?mt=12) code:

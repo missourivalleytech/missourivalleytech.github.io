@@ -14,6 +14,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 Did you think that was an Apple Watch? You'd be wrong.

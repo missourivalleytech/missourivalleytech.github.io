@@ -19,6 +19,7 @@ gallery:
     - image_url: http://imgur.com/dQP2OY6.jpg
     - image_url: http://imgur.com/ysdzxkn.jpg
     - image_url: http://imgur.com/U9ZbDiJ.jpg
+comments: true
 ---
 
 I received my sets of [The Amazing Chocolatier](https://zambumon.github.io/) from [Massdrop](https://www.massdrop.com/buy/the-amazing-chocolatier-custom-sa-keycap-set) today.

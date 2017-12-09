@@ -6,6 +6,7 @@ teaser: "This is an amazing DIY project from abhi3188 on Reddit."
 author: Morgan
 breadcrumb: true
 categories: linked
+comments: true
 ---
 
 <a class="embedly-card" href="https://i.imgur.com/3cBFW1E.gifv">PEEQO</a>

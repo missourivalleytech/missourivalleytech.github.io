@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 ![ErgoDox](http://imgur.com/RmocI39.jpg)

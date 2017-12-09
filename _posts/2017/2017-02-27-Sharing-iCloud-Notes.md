@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 I learned just yesterday that it's possible to share notes (from iOS/macOS' built-in Notes app) with others via iCloud. I've been aware of this functionality in Reminders for some time now, but I'm glad to know that it's present in Notes as well.

@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - linked
 breadcrumb: true
+comments: true
 ---
 
 As a part of the millenial generation, I, like many of my peers do not watch traditional broadcast television. I am not merely a cord cutter, I am a cord _never_. At no point in my adult life have I had cable or satellite service. Hell, I haven't even had an antenna for the past 5 years.

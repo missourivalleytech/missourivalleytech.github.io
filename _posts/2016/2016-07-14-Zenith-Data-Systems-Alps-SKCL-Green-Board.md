@@ -8,6 +8,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 ![Board Overview](http://imgur.com/cME42jh.jpg)

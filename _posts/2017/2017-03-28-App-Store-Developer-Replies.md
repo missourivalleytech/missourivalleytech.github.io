@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 [Curtis Herbert](https://blog.curtisherbert.com/slopes-diaries-19-app-store-review-replies/), developer of [Slopes](https://getslopes.com/), on dev replies in the App Store:
 

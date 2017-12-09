@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 ![](http://imgur.com/ldnDlYq.jpg)
 

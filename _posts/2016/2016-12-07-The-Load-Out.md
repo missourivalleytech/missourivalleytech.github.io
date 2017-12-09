@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - tech
 breadcrumb: true
+comments: true
 ---
 
 ![](https://i.imgur.com/RoCEk8O.jpg)

@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - linked
 breadcrumb: true
+comments: true
 ---
 
 <center> <img src="http://imgur.com/Cp9sjCC.jpg" alt="Whatsapp"> </center>

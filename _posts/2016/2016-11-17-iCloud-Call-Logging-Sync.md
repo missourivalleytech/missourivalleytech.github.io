@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 > Earlier today, reports surfaced on The Intercept and Forbes claiming Apple "secretly" syncs Phone and FaceTime call history logs on iCloud, complete with phone numbers, dates and times, and duration. The info comes from Russian software firm Elcomsoft, which said the call history logs are stored for up to four months.

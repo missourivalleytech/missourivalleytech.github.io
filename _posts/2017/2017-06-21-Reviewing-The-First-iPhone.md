@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 Steven Levy writing for [Wired](https://www.wired.com/story/iphone-tenth-anniversary/):

@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=3j7n00Xx38o"
     thumbnailUrl: "http://img.youtube.com/vi/3j7n00Xx38o/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 > The SHERP is Alexei Garagashyan’s brilliant invention. It weighs just 2,866 pounds dry, so while it might only have a 44.3 horsepower 1.5 liter Kubota V1505 four-cylinder diesel linked to a five-speed manual, it will still do 28 mph on land, or 3.7 mph in water, depending on the wind. It will also crawl at up to 9.3 mph in first gear.

@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 ![http://imgur.com/XzriSis.jpg](http://imgur.com/XzriSis.jpg)  

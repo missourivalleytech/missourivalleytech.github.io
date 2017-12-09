@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 ![](https://i.imgur.com/43REIhT.jpg)    
 [[Source]](https://www.apple.com/pr/library/2016/10/27Apple-Unveils-Groundbreaking-New-MacBook-Pro.html)

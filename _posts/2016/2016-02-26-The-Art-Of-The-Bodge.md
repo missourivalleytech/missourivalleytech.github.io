@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 ![The secret to bodge jobs: adhesive](http://imgur.com/8lX6APT.jpg)

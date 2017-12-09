@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - linked
 breadcrumb: true
+comments: true
 ---
 
 > A bill pre-filed this month by state Rep. Bill Chumley would require sellers to install digital blocking capabilities on computers and other devices that access the internet to prevent the viewing of obscene content.    

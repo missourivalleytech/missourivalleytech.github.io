@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 [John Gruber on the headphone jack:](http://daringfireball.net/2016/09/courage)

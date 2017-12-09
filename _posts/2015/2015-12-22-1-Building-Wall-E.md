@@ -5,6 +5,7 @@ subheadline: ""
 teaser: "Wall ⋅ E is the first complex/advanced Lego set I've built in probably a decade. Like many kids, I was nuts for Lego as a child, I'd spend hours and hours endlessly building and rebuilding things out if my giant container of parts (which I still have by the way)."
 author: Morgan
 breadcrumb: true
+comments: true
 ---
 
 ![Wall⋅E before assembly](http://imgur.com/nz82WaC.jpg)

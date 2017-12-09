@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=07gHAmW91Cc"
     thumbnailUrl: "http://img.youtube.com/vi/07gHAmW91Cc/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 This video is long, but worth it. Stay to for the end to see how the puzzle is solved.

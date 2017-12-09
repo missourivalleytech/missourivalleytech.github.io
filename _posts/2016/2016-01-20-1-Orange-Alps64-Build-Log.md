@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 As detailed in a [previous post]({{ site.baseurl }}/2015-12-12-2-On-Becoming-A-Keyboard-Wonk/), the first board that prompted me to become a keyboard wonk was an Apple Extended Keyboard II with white alps switches. I had the privilege to join Hasu's round 2 [Alps PCB group buy](https://geekhack.org/index.php?topic=69740.0), from which I built my first custom keyboard. 

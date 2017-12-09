@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - linked
 breadcrumb: true
+comments: true
 ---
 
 ![New Lastpass Logo](http://i.imgur.com/06oJ1Ngl.jpg)

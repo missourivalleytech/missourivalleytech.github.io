@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=8VrWhr7Qxec"
     thumbnailUrl: "http://img.youtube.com/vi/8VrWhr7Qxec/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 Great work from Apple's marketing team. I love this type of work.

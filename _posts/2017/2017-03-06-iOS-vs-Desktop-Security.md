@@ -7,6 +7,7 @@ author: Morgan
 categories:
     - linked
 breadcrumb: true
+comments: true
 ---
 
 From [Matthew Green](https://twitter.com/matthew_d_green) in a piece called _Secure Computing For Journalists_:

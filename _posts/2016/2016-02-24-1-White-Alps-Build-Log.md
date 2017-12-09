@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 ![Title Image w/ Alps64 & AEKII](http://imgur.com/ph3ynJj.jpg)

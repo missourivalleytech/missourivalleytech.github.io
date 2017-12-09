@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 ![Red Matias Linear Switches](http://imgur.com/Kz0vJW7.jpg)
 

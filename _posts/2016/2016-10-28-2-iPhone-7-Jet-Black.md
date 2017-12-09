@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 Got my Jet Black 7 yesterday. Fantastic so far. I'm in love with this phone.

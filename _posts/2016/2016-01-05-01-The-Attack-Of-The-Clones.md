@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 Every year at [CES](http://www.engadget.com/tag/CES/) we see various OEMs debut that year's clones of what Apple did the previous year. Products the OEMs just weren't original enough to think of themselves. Hell, they don't settle for copying just the look, they copy the **colors** too.

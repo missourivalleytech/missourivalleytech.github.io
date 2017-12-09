@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 > The United States government has demanded that Apple take an unprecedented step which threatens the security of our customers.   

@@ -13,6 +13,7 @@ image:
     caption: Leading Edge DC-2014
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 

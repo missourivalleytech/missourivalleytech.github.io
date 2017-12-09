@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 Apple presented its 10th annual iPhone keynote today. The keynote was the first ever presentation made from Apple's new campus, in the [Steve Jobs Theater](https://9to5mac.com/2017/06/24/steve-jobs-theater-drone-footage/). How appropriate - to hold the 10th iPhone keynote in a theater thusly named.

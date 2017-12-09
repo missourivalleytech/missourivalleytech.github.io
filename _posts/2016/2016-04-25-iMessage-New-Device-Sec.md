@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 <img align="right" src="http://i.imgur.com/tEhmHFR.jpg">

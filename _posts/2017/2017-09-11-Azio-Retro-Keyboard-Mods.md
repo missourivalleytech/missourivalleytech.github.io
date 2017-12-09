@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 The mechanical keyboard hobby is one that is expensive and time consuming. I've been fortunate enough to have a girlfriend that is understanding and enthusiastic about my hobby. We started dating shortly after I became serious about keyboards. She has been through my entire journey into this hobby, and has patiently listened to be ramble about keyboards time and time again. After a few of my rambles, she started voicing enthusiasm and interest about getting a mechanical keyboard of her own.

@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v= YuQUBh0AbUM"
     thumbnailUrl: "http://img.youtube.com/vi/YuQUBh0AbUM/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 > We can't be 100 percent sure the dummy models we've seen are accurate representations of what we can expect when the iPhone 8 launches, but they match up with leaked factory specifications, part leaks, CAD drawings, and information culled from the HomePod firmware Apple released in late July.

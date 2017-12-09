@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 > With the addition of cellular networking in Series 3, Apple Watch gains something essential: independence. It’s not just a cool feature. It’s aimed smack dab in the middle of the two things people like best about Apple Watch: notifications and fitness. When are you separated from your iPhone? When you’re exercising. What do you miss most when you’re away from your phone? Messages and phone calls.
@@ -21,7 +22,7 @@ Phone anxiety is a weird, and, for me at least, irrational thing. I know that ma
 <br><br>
 Apple Watch Series 3 with cellular networking completely alleviates this anxiety.
 
-I was waffling between getting the cellular or non-cellular version of Series 3. Now I’m convinced - it’s gotta be cellular. 
+I was waffling between getting the cellular or non-cellular version of Series 3. Now I’m convinced - it’s gotta be cellular.
 
 [[via Daring Fireball](https://daringfireball.net/2017/09/apple_watch_series_3)]
 

@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 ![Beginning Switch Install](http://imgur.com/duNnbCk.jpg)

@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=ApAzIJ3jQtw"
     thumbnailUrl: "http://img.youtube.com/vi/ApAzIJ3jQtw/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 Following up on a [post]({{ site.baseurl }}/2016-12-10-Peeqo-The-GIF-Bot) from last month, the creator of [Peeqo](http://peeqo.com/) has created a video about his GIF bot.

@@ -11,6 +11,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 

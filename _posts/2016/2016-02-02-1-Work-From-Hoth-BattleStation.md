@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - tech
 breadcrumb: true
+comments: true
 ---
 
 <a class="embedly-card" href="https://gfycat.com/FocusedGreedyHarlequinbug">Untitled</a>

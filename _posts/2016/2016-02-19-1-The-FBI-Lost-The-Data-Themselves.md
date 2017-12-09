@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - apple
 breadcrumb: true
+comments: true
 ---
 
 > The Apple ID password linked to the iPhone belonging to one of the San Bernardino terrorists was changed less than 24 hours after the government took possession of the device, senior Apple executives said Friday. If that hadn’t happened, Apple said, a backup of the information the government was seeking may have been accessible.

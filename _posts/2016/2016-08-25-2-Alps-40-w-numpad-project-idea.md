@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 ![](https://i.imgur.com/K5ZM3Vo.jpg)
 

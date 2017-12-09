@@ -13,6 +13,7 @@ image:
     caption: Source
     caption_url: http://imgur.com/aaRVL55.jpg
 breadcrumb: true
+comments: true
 ---
 
 Phillips' [Hue Motion Sensor](http://www2.meethue.com/en-us/productdetail/philips-hue-motion-sensor) seems like the perfect way to automate a great smart lighting platform, but is it?

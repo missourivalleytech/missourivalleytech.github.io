@@ -13,6 +13,7 @@ image:
     caption: Finished project - Alp64 with Blue switches
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 

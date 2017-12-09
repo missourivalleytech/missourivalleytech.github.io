@@ -13,6 +13,7 @@ image:
     caption: Boxcryptor
     caption_url: https://www.boxcryptor.com/en/vision
 breadcrumb: true
+comments: true
 ---
 
 

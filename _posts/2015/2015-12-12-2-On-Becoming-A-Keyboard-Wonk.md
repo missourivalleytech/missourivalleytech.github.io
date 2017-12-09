@@ -14,6 +14,7 @@ image:
     caption: Apple Extended Keyboard II
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 If you're in any way involved in the gaming or technology world, you've likely come across, tried, or at bare minimum _heard_ of mechanical keyboards.

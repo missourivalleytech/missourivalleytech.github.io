@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 gallery:
   - image_url: http://imgur.com/M0duSYU.jpg
   - image_url: http://imgur.com/5ZxxVTL.jpg
@@ -28,7 +29,7 @@ gallery:
 ---
 
 I’ve been very excited to receive this set.    
-    
+
 Maxkeys sets are notable in that they are Chinese made, and *significantly* cheaper than Signature Plastics keycaps. This set was only ~$90 compared to the typical ~$150 one pays for an SA profile keycap set.
 
 {% include gallery %}

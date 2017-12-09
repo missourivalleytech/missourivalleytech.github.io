@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - linked
 breadcrumb: true
+comments: true
 ---
 
 > Open Whisper Systems, a maker of a widely used encryption app called Signal, received a subpoena in the first half of the year for subscriber information and other details associated with two phone numbers that came up in a federal grand jury investigation in Virginia.    

@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 <a class="embedly-card" href="https://gfycat.com/IdealisticMealyBunny">RGB Underglow</a>

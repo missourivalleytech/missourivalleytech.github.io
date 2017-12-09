@@ -8,6 +8,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 ![Mid-surgery Alps64](http://imgur.com/Ot9YYbp.jpg)

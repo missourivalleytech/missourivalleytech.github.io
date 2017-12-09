@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=3-61FFoJFy0"
     thumbnailUrl: "http://img.youtube.com/vi/3-61FFoJFy0/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 Samsung's best effort from _this_ year is still not enough to beat Apple's from _last_ year. Why do people buy Samsung products again?

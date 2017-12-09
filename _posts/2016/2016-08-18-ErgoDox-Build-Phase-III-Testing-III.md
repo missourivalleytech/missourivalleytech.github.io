@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 Previously - [Phase III - Testing, Part 2]({{ site.baseurl }}/2016-07-21-ErgoDox-Build-Phase-III-Testing-II)
 

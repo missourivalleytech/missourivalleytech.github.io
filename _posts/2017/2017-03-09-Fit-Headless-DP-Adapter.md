@@ -13,6 +13,7 @@ image:
     caption:
     caption_url:
 breadcrumb: true
+comments: true
 ---
 
 If you're like me, you Remote Desktop into various computers all the time. At work I remote to a Windows 7 PC every day to access our ticketing software, at home I remote into my media server all the time. Both of these machines are 'headless' in that they don't have a monitor connected.

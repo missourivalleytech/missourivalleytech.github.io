@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - keyboards
 breadcrumb: true
+comments: true
 ---
 
 Last week I got in some new parts for a future build, a lovely Zorbcaps artisan keycap, and a really unique new-in-box vintage board.

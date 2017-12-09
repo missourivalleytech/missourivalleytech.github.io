@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=C7MoADT-xfo"
     thumbnailUrl: "http://img.youtube.com/vi/C7MoADT-xfo/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 I've been pondering getting a dashcam for some months now. I am not a professional or commercial driver, and I'm not often in situations where I need to have a dashcam, but I think that they're potentially useful, and many are inexpensive.

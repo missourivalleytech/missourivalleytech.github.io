@@ -30,6 +30,7 @@ gallery:
   - image_url: http://imgur.com/hnrxQZw.jpg
     caption: Modified Jelly Comb Numpad
 breadcrumb: true
+comments: true
 ---
 
 Today I'm going live with a new theme for the blog. I'm really excited about the new look, and even more excited about the new functionality that the new theme offers. I loved the old look and feel, but it was time for a facelift. There has also been a lot more I'd like the site to be able to do - the new theme can do it.
@@ -122,5 +123,9 @@ The site now has a dedicated [archive]({{ site.baseurl }}/archive/) of all posts
 ### Other Functions
 
 The Feeling Responsive theme also has a ton of other great functionality for displaying content. In preparing this new site, I needed to convert all the old posts for use with the new site. There is so much untapped functionality here. The existing posts use some of it, but I'm really excited to make use of as many of these new features as I can with future posts on the site.
+
+#### Update 12/08/2017
+
+Comments have been added to the site using Disqus.
 
 [^1]: Made you look.

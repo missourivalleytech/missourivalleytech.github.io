@@ -7,6 +7,7 @@ author: Morgan
 categories:
   - tech
 breadcrumb: true
+comments: true
 ---
 
 <iframe src="//giphy.com/embed/l2Jhv5onyXAu4GP6g" width="640" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/l2Jhv5onyXAu4GP6g"></a></p>

@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=Uox-t4OB6hE"
     thumbnailUrl: "http://img.youtube.com/vi/Uox-t4OB6hE/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 I've seen [plenty](http://youtu.be/Nqk_nWAjBus) of [variants](http://youtu.be/Z86V_ICUCD4) of the [useless machine](https://en.m.wikipedia.org/wiki/Useless_machine) over the years. This is my favorite.

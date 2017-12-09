@@ -13,6 +13,7 @@ video:
     contentURL: "https://www.youtube.com/watch?v=wp9eWFPJ9To"
     thumbnailUrl: "http://img.youtube.com/vi/wp9eWFPJ9To/maxresdefault.jpg"
 breadcrumb: true
+comments: true
 ---
 
 [Night Shift](http://www.imore.com/night-shift-ios-93-explained) is a lot like the third party software [F.lux](https://justgetflux.com/). I've been a big fan of F.lux for a while now. Since starting to use it (and Night Shift on iOS) I've noticed a significant reduction in eye strain at night.
