@@ -24,9 +24,9 @@ After a few years of having the old Ambulance domain it was time for a change. T
 
 With the change to the new domain I've made a few changes to under the hood of the site:
 
-+ Comments are now enabled, using Disqus
-+ FancyBox support has been added for images
-+ Widgets for featured posts have been added to the homepage
++ Comments are now enabled, using Disqus.
++ FancyBox support has been added for images.
++ Widgets for featured posts have been added to the homepage.
 
 Over the coming days I'll be adding comments sections to most (if not all) of the old posts, and I'll be updating most inline images to use FancyBox
 
