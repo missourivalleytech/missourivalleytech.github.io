@@ -30,7 +30,7 @@ With the change to the new domain I've made a few changes to under the hood of t
 
 Over the coming days I'll be adding comments sections to most (if not all) of the old posts, and I'll be updating most inline images to use FancyBox
 
-In addition to the new domain, I've also rebranded the blog's twitter, follow it [here:](https://twitter.com/MoValleyTech).
+In addition to the new domain, I've also rebranded the blog's twitter, follow it here: [MoValleyTech](https://twitter.com/MoValleyTech).
 
 I've also started a dedicated Youtube Channel for the blog. There aren't any videos up yet, but I've got a couple in the pipe, and will be making a push to make more video content for the site very soon.
 
