@@ -16,7 +16,7 @@ breadcrumb: true
 comments: true
 ---
 
-Germain to [my post]({{ site.baseurl }}/apple/2017-12-11-The-Unified-Platform) the other day imagining a world with a unified OS between iPhone and Mac, [Saloman Aurelein](https://dribbble.com/aureliensalomon) has mocked up what that experience might look like. 
+Germain to [my post]({{ site.baseurl }}/apple/2017-12-11-The-Unified-Platform) the other day imagining a world with a unified OS between iPhone and Mac, [Saloman Aurelien](https://dribbble.com/aureliensalomon) has mocked up what that experience might look like. 
 
 See more [here](https://www.behance.net/gallery/57309065/Apple-OS-MacOS-2020-redesign-Edge-to-edge-Macbook).
 
