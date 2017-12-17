@@ -5,7 +5,7 @@ title: "Night Shift in macOS Sierra 10.12.4"
 subheadline: ""
 teaser: "MacRumors explains Night Shift, new in macOS 10.12.4"
 categories:
-    - videos
+    - apple
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/wp9eWFPJ9To' frameborder='0' allowfullscreen></iframe>"
 video:

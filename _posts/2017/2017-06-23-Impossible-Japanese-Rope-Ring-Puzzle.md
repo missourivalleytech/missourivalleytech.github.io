@@ -5,9 +5,9 @@ title: "Impossible Japanese Rope Ring Puzzle"
 subheadline: ""
 teaser: "Japanese TV show Knight Scoop attempts to solve an impossible to solve rope ring puzzle."
 categories:
-    - videos
+    - linked
 author: Morgan
-iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/07gHAmW91Cc' frameborder='0' allowfullscreen></iframe>"
+iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/07gHAmW91Cc'frameborder='0' allowfullscreen></iframe>"
 video:
     embedURL: "https://www.youtube.com/embed/07gHAmW91Cc"
     contentURL: "https://www.youtube.com/watch?v=07gHAmW91Cc"

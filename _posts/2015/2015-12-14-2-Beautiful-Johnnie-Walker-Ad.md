@@ -5,7 +5,7 @@ subheadline: ""
 teaser: ""
 author: Morgan
 categories:
-  - videos
+  - linked
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/h2caT4q4Nbs' frameborder='0' allowfullscreen></iframe>"
 video:
 embedURL: "https://www.youtube.com/embed/h2caT4q4Nbs"

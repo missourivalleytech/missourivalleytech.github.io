@@ -5,7 +5,7 @@ title: "When You Say Photocopying Machine..."
 subheadline: ""
 teaser: "NYT's 'Verbatim' series shows us a deposition from a suit about 'photocopiers'"
 categories:
-    - videos
+    - linked
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/PZbqAMEwtOE' frameborder='0' allowfullscreen></iframe>"
 video:

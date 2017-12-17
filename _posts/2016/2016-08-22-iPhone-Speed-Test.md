@@ -5,7 +5,7 @@ title: "iPhone 6S vs Note 7 Speed Test"
 subheadline: ""
 teaser: "Samsung's best effort from this year is still not enough to beat Apple's from last year."
 categories:
-    - videos
+    - apple
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/' frameborder='0' allowfullscreen></iframe>"
 video:

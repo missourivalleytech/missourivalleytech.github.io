@@ -5,7 +5,7 @@ title: "Nintendo Switch Unboxing"
 subheadline: ""
 teaser: ""
 categories:
-    - videos
+    - linked
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/7-kXougiZwU' frameborder='0' allowfullscreen></iframe>"
 video:

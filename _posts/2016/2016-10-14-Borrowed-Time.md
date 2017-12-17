@@ -5,7 +5,7 @@ title: "Borrowed Time"
 subheadline: ""
 teaser: "Incredible short film from Lou Hamou-Lhadj & Andrew Coats of PIXAR."
 categories:
-    - videos
+    - linked
 author: Morgan
 iframe: "<iframe width='970' height='546' src='https://player.vimeo.com/video/187257744' frameborder='0' allowfullscreen></iframe>"
 breadcrumb: true

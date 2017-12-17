@@ -5,7 +5,7 @@ title: "The Best Version Of The Useless Machine "
 subheadline: ""
 teaser: "I've seen plenty of variants of the useless machine over the years. This is my favorite. "
 categories:
-    - videos
+    - linked
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/Uox-t4OB6hE' frameborder='0' allowfullscreen></iframe>"
 video:

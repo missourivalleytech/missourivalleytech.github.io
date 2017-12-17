@@ -5,7 +5,7 @@ title: "Macrumors Goes Hands On With iPhone 8"
 subheadline: ""
 teaser: "Macrumors’ hands on video with a dummy model for the purported iPhone 8/Pro"
 categories:
-    - videos
+    - apple
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/YuQUBh0AbUM' frameborder='0' allowfullscreen></iframe>"
 video:

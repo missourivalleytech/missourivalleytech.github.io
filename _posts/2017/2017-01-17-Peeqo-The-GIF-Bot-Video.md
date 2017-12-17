@@ -5,7 +5,7 @@ title: "Peeqo The GIF Bot Video"
 subheadline: ""
 teaser: "Following up on my post from last month, the creator of Peeqo has created a video about his GIF bot."
 categories:
-    - videos
+    - linked
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/ApAzIJ3jQtw' frameborder='0' allowfullscreen></iframe>"
 video:
