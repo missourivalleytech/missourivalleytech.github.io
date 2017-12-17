@@ -5,7 +5,7 @@ title: "Apple OS / MacOS 2020 redesign"
 subheadline: ""
 teaser: "Germain to my post the other day imagining a world with a unified OS between iPhone and Mac, Aurelein Saloman has mocked up what that experience might look like."
 categories:
-    - videos
+    - apple
 author: Morgan
 iframe: "<iframe width='970' height='546' src='//www.youtube.com/embed/6TJr9eMXVDI' frameborder='0' allowfullscreen></iframe>"
 video:
