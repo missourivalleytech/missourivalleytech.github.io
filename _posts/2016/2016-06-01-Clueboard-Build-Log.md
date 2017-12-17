@@ -45,7 +45,7 @@ Like other MX mount builds I've done in the past, I opted for a mix of switches.
 
 ![](http://imgur.com/y3AJqnB.jpg)
 
-This build uses Cherry style PCB-mount stabilizers, which I've lubricated with [Finish Line Extreme Flouro](http://www.amazon.com/Finish-Line-Extreme-Fluoro-Syringe/dp/B002L5UL92?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00) teflon lube. Zealios come lubricated from the factory, and I'm satisfied with the smoothness of Gateron reds and my broken-in MX Blacks, so I felt no need to lubricate the switches.
+This build uses Cherry style PCB-mount stabilizers, which I've lubricated with [Finish Line Extreme Flouro](http://amzn.to/2BzoGdA)) teflon lube. Zealios come lubricated from the factory, and I'm satisfied with the smoothness of Gateron reds and my broken-in MX Blacks, so I felt no need to lubricate the switches.
 
 ![](http://imgur.com/jatmvVK.jpg)
 

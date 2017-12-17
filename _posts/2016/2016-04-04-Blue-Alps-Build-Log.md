@@ -35,8 +35,8 @@ I've never before built a board in a single day, much less a sitting. I've alway
   - Blue switches
   - Stabilizer clips & wires
 + Alpine Winter keycaps
-+ [Finish Line Extreme Fluoro Teflon Grease](http://www.amazon.com/Finish-Line-Extreme-Fluoro-Syringe/dp/B002L5UL92?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
-+ [DuPont Teflon Silicone Lubricant](http://www.amazon.com/DuPont-Teflon-Silicone-Lubricant-Squeeze/dp/B00BCVXUVM?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00)
++ [Finish Line Extreme Fluoro Teflon Grease](http://amzn.to/2BzoGdA)
++ [DuPont Teflon Silicone Lubricant](hhttp://amzn.to/2CrIZ9v)
 + Rustoleum Primer
 + Rustoleum Metallic Blue
 + Rustoleum Clear Enamel

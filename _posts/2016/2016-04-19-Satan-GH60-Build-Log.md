@@ -48,7 +48,7 @@ The Satan PCB is cheap in both senses of the word. The board is very inexpensive
 
 ![](http://imgur.com/c5d8eWA.jpg)
 
-<img align="right" src="http://i.imgur.com/pth9Vay.jpg">First came the PCB-mount stabilizers. Wires were lubed with [Finish Line Extreme Flouro](http://www.amazon.com/Finish-Line-Extreme-Fluoro-Syringe/dp/B002L5UL92?ie=UTF8&psc=1&redirect=true&ref_=oh_aui_detailpage_o01_s00) teflon lube.
+<img align="right" src="http://i.imgur.com/pth9Vay.jpg">First came the PCB-mount stabilizers. Wires were lubed with [Finish Line Extreme Flouro](http://amzn.to/2BzoGdA)) teflon lube.
 
 Installation of the switches was largely uneventful. While I'm typically a fan of tactile switches - namely [Zealios](https://zealpc.net/products/zealio) when dealing in MX mount boards, I opted for Cherry MX blacks as the primary switch for this build.
 

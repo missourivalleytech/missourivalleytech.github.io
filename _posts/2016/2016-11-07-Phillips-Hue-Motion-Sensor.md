@@ -18,7 +18,7 @@ comments: true
 
 Phillips' [Hue Motion Sensor](http://www2.meethue.com/en-us/productdetail/philips-hue-motion-sensor) seems like the perfect way to automate a great smart lighting platform, but is it?
 
-I've been using [SmartThings](https://www.smartthings.com/) (with a [1st gen hub](https://www.amazon.com/Samsung-SmartThings-STH-ETH-001-Hub-Generation/dp/B00FWYESVQ/ref=zg_bs_6478740011_18)) for some time, but lately I've been interested in moving to a platform that supports [HomeKit](http://www.apple.com/ios/home/) - enter [Phillips Hue](http://www2.meethue.com/en-us/). My biggest barrier to moving to an alternate platform has been a distinct lack of motion sensors. It's pretty hard to have 'automation' without an _automated_ way to trigger lights.
+I've been using [SmartThings](https://www.smartthings.com/) (with a [1st gen hub](http://amzn.to/2yME1C8)) for some time, but lately I've been interested in moving to a platform that supports [HomeKit](http://www.apple.com/ios/home/) - enter [Phillips Hue](http://www2.meethue.com/en-us/). My biggest barrier to moving to an alternate platform has been a distinct lack of motion sensors. It's pretty hard to have 'automation' without an _automated_ way to trigger lights.
 
 Phillips Hue is the natural choice for a HomeKit compatible setup. I'd been waiting for some time for the [motion sensor](http://www2.meethue.com/en-us/productdetail/philips-hue-motion-sensor) to come out. 2 weeks ago I picked up an entire rig:
 
