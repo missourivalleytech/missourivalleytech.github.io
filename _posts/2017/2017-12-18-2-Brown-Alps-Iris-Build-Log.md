@@ -2,7 +2,7 @@
 layout: page
 title: "Brown Alps Iris Build Log"
 subheadline: ""
-teaser: ""
+teaser: "Iris is a split ortholinear keyboard based on Lets Split and Nyquist. From Keeb.io, Iris is a bold 60% layout split keyboard, providing the same punch and functionality as ErgoDox, in a much smaller package. This build log details my white Iris with Brown Alps Switches."
 author: Morgan
 categories:
   - keyboards
