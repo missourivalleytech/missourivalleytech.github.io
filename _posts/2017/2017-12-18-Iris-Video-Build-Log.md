@@ -3,7 +3,7 @@ layout: video
 show_meta: true
 title: "Brown Alps Iris Build Log"
 subheadline: ""
-teaser: ""
+teaser: "First video on the new MVT YouTube channel. This build log shows the assembly of an Iris Split Ergonomic keyboard. Featuring an ortholinear layout, split halves, brown Alps switches and vintage OnePerDesk keycaps."
 categories:
     - videos
 author: Morgan
