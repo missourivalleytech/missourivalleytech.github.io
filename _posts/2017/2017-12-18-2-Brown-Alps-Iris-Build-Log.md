@@ -254,7 +254,7 @@ I've been daily driving it at work for a month or so now and have been loving it
   <li><a href="https://imgur.com/lXlN5Uq.jpg"><img data-caption="" src="https://imgur.com/lXlN5Uq.jpg"></a></li>
   <li><a href="https://imgur.com/RH5Au35.jpg"><img data-caption="" src="https://imgur.com/RH5Au35.jpg"></a></li>      
 </ul></center>
-https://imgur.com/rINM5xg.jpg
+
 Coming soon I'll have another Iris build (as soon as keycaps arrive) - the next one will use a black case, [Otemu Ice](https://www.novelkeys.xyz/product/outemu-ice-switches/) switches, and Russian MT3 keycaps. Stay tuned!
 
 
