@@ -23,11 +23,11 @@ subtitle: Mostly keyboards, always tech
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'LINK_TO_IMAGE'
 #  text: ''
-#widget5:
-#  title: "Iris Brown Alps"
-#  url: 'LINK_TO_BLOG_POST'
-#  image: 'LINK_TO_IMAGE'
-#  text: ''
+widget5:
+  title: "Iris Brown Alps"
+  url: '/keyboards/2017-12-18-2-Brown-Alps-Iris-Build-Log'
+  image: 'https://imgur.com/2TazCiU'
+  text: ''
 #widget6:
 #  title: "Iris Comrade"
 #  url: 'LINK_TO_BLOG_POST'
