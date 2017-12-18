@@ -18,7 +18,7 @@ comments: true
 
 About a month ago I put together an Iris split keyboard. Iris is one of my favorite split keyboards, and uses a fantastic layout. Iris is available at [Keeb.io](http://keeb.io).
 
-This build log up on the new Missouri Valley Tech [Youtube channel](https://www.youtube.com/channel/UCmvObmbEDqM3yamTB7AgBS ), and is the first of many new videos I have planned.
+This build log is up on the new Missouri Valley Tech [YouTube channel](https://www.youtube.com/channel/UCmvObmbEDqM3yamTB7AgBS ), and is the first of many new videos I have planned.
 
 ---
 <p align="right">Typed on ErgoDox Test Board</p>
