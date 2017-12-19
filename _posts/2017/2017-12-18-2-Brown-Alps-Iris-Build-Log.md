@@ -142,9 +142,9 @@ then just use the keycode
 ```c
 BSLR
 ```
-_inside_ my keymap
+_inside_ my keymap.
 
- With its new build environment, flashing a keyboard is now far simpler and easier - especially for boards that use a Pro Micro. In the past it was necessary to compile your firmware, then plug in a promicro, trigger it's reset mode, quickly find its COM port, then flash the firmware using another utility. Now one runs a simple command and QMK compiles & flashes the board in one step. For Iris the command is ```make iris/rev2:default:avrdude```
+ With its new [build environment](https://docs.qmk.fm/getting_started_build_tools.html), flashing a keyboard is now far simpler and easier - especially for boards that use a Pro Micro. In the past it was necessary to compile your firmware, then plug in a promicro, trigger it's reset mode, quickly find its COM port, then flash the firmware using another utility. Now one runs a simple command and QMK compiles & flashes the board in one step. For Iris the command is ```make iris/rev2:default:avrdude```
 
  My Iris keymap is below. Mostly an adaptation of my ErgoDox keymap, combine with how I typically lay out my 60% boards.
 
