@@ -26,7 +26,7 @@ subtitle: Mostly keyboards, always tech
 widget5:
   title: "Iris Brown Alps"
   url: '/keyboards/2017-12-18-2-Brown-Alps-Iris-Build-Log'
-  image: 'https://imgur.com/2TazCiU'
+  image: 'https://imgur.com/2TazCiU.jpg'
   text: ''
 #widget6:
 #  title: "Iris Comrade"
