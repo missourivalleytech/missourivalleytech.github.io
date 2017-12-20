@@ -1,7 +1,7 @@
 ---
 layout: default
 show_meta: false
-title: "Videos"
+title: "Linked"
 subheadline: ""
 header:
 permalink: "/linked/"
