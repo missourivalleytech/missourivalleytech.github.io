@@ -94,9 +94,9 @@ It was a significant change from the Apple Aluminum Keyboard I'd been using. For
 
 ![Comparison to Apple aluminum](http://imgur.com/Qk9Xdcq.jpg)
 
-<div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
-width="640" height="390" src="http://www.youtube.com/embed/WNlAEV_5O90"
-frameborder="0" allowFullScreen></iframe></div>
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/WNlAEV_5O90" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Programming
 

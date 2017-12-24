@@ -19,9 +19,10 @@ The board has [Alps SKCL green](https://deskthority.net/wiki/Alps_SKCL_Green) sw
 
 These SKCL Greens are sublime. They're weighted very well, actuation feels slighly heavier than Cherry MX Black. I've yet to clean up the inevitably dust-filled switches, but they're exceptionally smooth. Not the same fluid smoothness that one feels with MX Blacks, but still very smooth. They are linear, but feel very...complex, like there's a lot going on inside the switch as it is depressed. This feel will of course be due to the SKCL's 'complicated' leaf and slider design. Obviously it's a mechanical switch, but it's the first linear I've tried that truly _feels_ mechanical. These may be the best linears I've used yet.
 
-<div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
-width="640" height="390" src="http://www.youtube.com/embed/EQRfP_x0PJE"
-frameborder="0" allowFullScreen></iframe></div>
+
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/EQRfP_x0PJE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The sound of this board is very distinct. The typing sound is very low and satisfying, more thock than clack. During fast typing, there is an underlying pinging sound piercing up through the low thocks - in a way it reminds me of [Alps SKCC]({{ site.baseurl }}/2016-03-15-More-For-The-Collection)switches. I'm not certain if the pinging is simply coming from the springs in the switch, or from the metal plate they're mounted to. None of my other comlicated Alps make such a pinging sound.
 

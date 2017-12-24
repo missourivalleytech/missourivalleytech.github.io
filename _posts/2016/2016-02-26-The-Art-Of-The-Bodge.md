@@ -42,9 +42,9 @@ My next victim was the _new_ spacebar. The MX-mount had to be extracted (so that
 
 It looks really rough, but conveniently like most bodge-jobs, it can't be seen during everyday usage. The newly-bodged spacebar performs beautifully. Now I'll just need to source a vintage plunger and Alps spacebar to harvest from when I build my Blue Alps64.
 
-<div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
-width="640" height="390" src="http://www.youtube.com/embed/iPIxrurTgbg"
-frameborder="0" allowFullScreen></iframe></div>
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/iPIxrurTgbg" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ---
 <p align="right">Typed on Orange Alps64</p>

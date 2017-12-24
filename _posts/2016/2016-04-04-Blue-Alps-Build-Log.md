@@ -23,9 +23,10 @@ Back in December I [wrote about my search for a blue alps donor board]({{ site.b
 
 The other two builds were exercises in learning about the custom-keyboard world, and in sourcing parts. This build was far more ambitious. I wasn't simply accumulating and assembling parts - I got far more involved than that. This was definitely my most rewarding build yet. Six or seven months of preparations and acquiring parts culminated in a marathon 12 hour build session.
 
-<div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
-width="640" height="390" src="http://www.youtube.com/embed/7qOqYAI-j-o"
-frameborder="0" allowFullScreen></iframe></div>
+
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/7qOqYAI-j-o" frameborder="0" allowfullscreen></iframe>
+</div>
 
 I've never before built a board in a single day, much less a sitting. I've always broken the build up into a couple sessions over a few days. This was an exhausting marathon, but I'm incredibly pleased with how it turned out.
 

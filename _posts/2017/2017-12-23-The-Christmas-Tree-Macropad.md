@@ -46,9 +46,10 @@ The macropad kit is exceedingly simple, there were a few options during the [gro
 
 ## Building
 
-<div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
-width="640" height="360" src="http://www.youtube.com/embed/ycS9kv-ioRA"
-frameborder="0" allowFullScreen></iframe></div>
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/ycS9kv-ioRA" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 The build for this macropad was pretty straightforward. It's probably one of the quickest builds I've done in a while. Typically a full on 60% board will take me 2 or 3 hours, I had this done in about 1.
 

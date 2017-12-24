@@ -70,10 +70,9 @@ These keycaps are from the [One Per Desk](https://deskthority.net/wiki/ICL_One_P
 
 ## Assembly
 
-
-<div class="video-container"><iframe title="YouTube video player" class="youtube-player" type="text/html"
-width="640" height="390" src="http://www.youtube.com/embed/aZQpGw9KoQE"
-frameborder="0" allowFullScreen></iframe></div>
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/aZQpGw9KoQE" frameborder="0" allowfullscreen></iframe>
+</div>
 
 For this build, I used a [PCB holder](http://amzn.to/2BBAHPA) for the first time. I've seen them on other build logs and have meant to buy one for a long time. The holder was a god-send for this build, and greatly simplified the process.
 
