@@ -28,11 +28,11 @@ widget5:
   url: '/keyboards/2017-12-18-2-Brown-Alps-Iris-Build-Log'
   image: 'https://imgur.com/2TazCiU.jpg'
   text: ''
-#widget6:
-#  title: "Iris Comrade"
-#  url: 'LINK_TO_BLOG_POST'
-#  image: 'LINK_TO_IMAGE'
-#  text: ''    
+widget6:
+  title: "Xmas Tree PCB"
+  url: '/keyboards/2017-12-23-The-Christmas-Tree-Macropad'
+  image: 'https://imgur.com/GEO255W.jpg'
+  text: ''    
 widget7:
   title: "Red Scarf II Ver.D"
   url: '/keyboards/2017-11-07-RedScarf-II-Ver-D-Build-Log'
