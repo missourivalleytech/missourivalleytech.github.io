@@ -1,11 +1,11 @@
 ---
 layout: page
-title: ""
+title: "iCloud Drive + Backblaze"
 subheadline: ""
-teaser: ""
+teaser: "Using iCloud Drive with zero-knowledge client-side encryption, and Backblaze for unlimited encrypted cloud backup."
 author: Morgan
 categories:
-  -
+  - tech
 image:
     title:
     homepage:
