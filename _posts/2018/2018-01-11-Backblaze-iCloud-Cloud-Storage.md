@@ -23,7 +23,7 @@ Last year I wrote a [post]({{ site.baseurl }}/tech/2016-10-03-Cloud-Storage) det
 
 This three-pronged backup solution was excellent for a long time. I've been very happy with Boxcryptor, especially as its mobile app has improved significantly since that original blog post. Like all good things, this solution had to come to an end - specifically because Amazon [killed](https://twitter.com/morganspeck/status/874716152680902656) the 'unlimited' storage option for Cloud Drive at the beginning of this year. ACD moved from $60/year to $60 per _terabyte_ per year. This pricing is still extremely competitive, but not budget friendly for me. I have a media server with  ~8TB of content, if I'd stayed with Amazon my yearly bill would be nearly $500 a year! It was time to change providers, and I needed something for both backup, and day-to-day cloud storage.
 
-Fortunately, I was able to find an alternate solution: [Backblaze](https://secure.backblaze.com/r/01ky72) & [iCloud Drive](https://www.apple.com/icloud/icloud-drive/). I had initially hoped to find some other vendor who could give me a single unlimited platform for storage + backup. There are options out there, but none of them were practical for what I wanted - namely ease of using while mobile.
+Fortunately, I was able to find an alternate solution: [Backblaze](https://secure.backblaze.com/r/01ky72) & [iCloud Drive](https://www.apple.com/icloud/icloud-drive/). I had initially hoped to find some other vendor who could give me a single unlimited platform for storage + backup. There are options out there, but none of them were practical for what I wanted - namely ease of using while mobile. In the end it was necessary to use two different providers to achieve what I wanted. 
 
 #### iCloud Drive
 
