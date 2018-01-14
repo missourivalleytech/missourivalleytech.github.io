@@ -34,4 +34,4 @@ Based on what I've seen so far, this doesn't look like it's going to be like BSG
 The first [4 episodes](http://www.syfy.com/theexpanse/episodes) are now available for streaming on SyFy's website.
 
 ---
-<p align="right">Typed on my white alps64</p>
+<p align="right">Typed on White Alps64</p>

@@ -69,4 +69,4 @@ How I made my first custom keyboard, the different kinds of keyboards I have tod
 For the record, as of this post (December 12, 2015) I have 10 different keyboards.
 
 ---
-<p align="right">Typed on my white alps64</p>
+<p align="right">Typed on White Alps64</p>

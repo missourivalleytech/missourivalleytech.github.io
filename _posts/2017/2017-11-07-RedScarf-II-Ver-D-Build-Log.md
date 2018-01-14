@@ -134,4 +134,4 @@ For a long time my [Test ErgoDox]({{ site.baseurl }}/keyboards/2016-08-18-ErgoDo
 
 
 ---
-<p align="right">Typed on RedScarf II+</p>
+<p align="right">Typed on RedScarf II+ Ver.D</p>

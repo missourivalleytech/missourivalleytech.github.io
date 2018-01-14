@@ -74,4 +74,4 @@ For the moment this macropad is fulfilling it's primary purpose: being a cool li
 After the tree goes down, I'll take the time to get this properly programmed and see how to fit a macropad into my workflow again.
 
 ---
-<p align="right">Typed on RedScarf II</p>
+<p align="right">Typed on RedScarf II+ Ver.D</p>

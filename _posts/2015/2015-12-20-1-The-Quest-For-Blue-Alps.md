@@ -73,4 +73,4 @@ It might seem silly, but after searching for such a rare switch for months and m
 There exists within the keyboard community the idea of an "endgame keyboard": the board so absolutely perfect that you will cease to buy keyboards, and will have reached your endgame. Based on my first impressions of these switches, and how fond of them I am already, one might think that whatever board these end up in might end up being my endgame board; this would be a mistake, there is no endgame keyboard, the chase and the quest will always continue.
 
 ---
-<p align="right">Typed on my white alps64</p>
+<p align="right">Typed on White Alps64</p>

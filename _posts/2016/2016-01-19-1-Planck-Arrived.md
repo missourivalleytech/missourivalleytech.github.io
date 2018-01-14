@@ -28,4 +28,4 @@ Compared to even a 60% board, this think is tiny! I'm so excited to get it built
 ![](http://i.imgur.com/pEUveWmh.jpg)
 
  ---
-<p align="right">Typed on my White Alps64</p>
+<p align="right">Typed on White Alps64</p>

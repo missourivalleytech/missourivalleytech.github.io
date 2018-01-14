@@ -23,4 +23,4 @@ For that reason, we believe the dummy model in the video offers up a clear look 
 I’m happy to see one of these hands on videos compare the dummy model’s size to both iPhone 7 and 7 Plus. When I went from iPhone 6 Plus to iPhone 7, I was happy to have a much smaller phone, but it was bittersweet to lose the Plus’ massive screen. iPhone 8/Pro looks to be only marginally bigger than a standard iPhone 7, with a 5.8” display - the best of both worlds.
 
 ---
-<p align="right">Typed on iPhone</p>
+<p align="right">Typed on Git2Go</p>

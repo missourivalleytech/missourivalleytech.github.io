@@ -21,4 +21,4 @@ I've decided to start doing typing videos of all my new keyboard builds. Every k
 This board, my Iris with Alps SKCM brown switches produces a mostly low thock sound, with light pinging from some of the outer edge keys.
 
 ---
-<p align="right">Typed on White Iris</p>
+<p align="right">Typed on Brown Alps Iris</p>

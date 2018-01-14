@@ -19,4 +19,4 @@ That’s definitely a dollar amount where winning would become terrifying. If yo
 It's amazing to think of all the _good_ that one could do with that sum of money, but the thought of that much wealth is as Andy says: terrifying.
 
  ---
-<p align="right">Typed on my Orange alps64</p>
+<p align="right">Typed on Orange Alps64</p>

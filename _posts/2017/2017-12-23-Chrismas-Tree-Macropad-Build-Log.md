@@ -29,4 +29,4 @@ After the tree goes down, I'll take the time to get this properly programmed and
 For more information about this build, visit [this post]({{ site.baseurl }}/keyboards/2017-12-23-The-Christmas-Tree-Macropad) on the blog.
 
 ---
-<p align="right">Typed on RedScarf II</p>
+<p align="right">Typed on RedScarf II+ Ver.D</p>

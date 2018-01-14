@@ -27,4 +27,4 @@ OEMs, please start coming up with original ideas. There are companies out there 
 [via [Macrumors](http://www.macrumors.com/2016/01/05/lenovo-lg-hp-macbook-lookalikes-ces-2016/)]
 
 ---
-<p align="right">Typed on my orange alps64</p>
+<p align="right">Typed on Orange Alps64</p>
