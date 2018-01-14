@@ -25,7 +25,7 @@ The other two builds were exercises in learning about the custom-keyboard world,
 
 
 <div class="video-responsive">
-    <iframe width="640" height="360" src="http://www.youtube.com/embed/7qOqYAI-j-o" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/xiPnQ2tQEiI" frameborder="0" allowfullscreen></iframe>
 </div>
 
 I've never before built a board in a single day, much less a sitting. I've always broken the build up into a couple sessions over a few days. This was an exhausting marathon, but I'm incredibly pleased with how it turned out.

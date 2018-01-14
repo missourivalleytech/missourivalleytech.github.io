@@ -13,7 +13,7 @@ comments: true
 
 
 <div class="video-responsive">
-    <iframe width="640" height="360" src="http://www.youtube.com/embed/B--WB8W05vg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/04-PSvc4Sc0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Some folks think a 60% keyboard is small, they've got nothing on 40% boards.
