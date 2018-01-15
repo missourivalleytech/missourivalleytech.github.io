@@ -59,7 +59,7 @@ As I refined more ideas about how to execute this build, I decided that I wanted
 # The Build
 
 <div class="video-responsive">
-    <iframe width="640" height="360" src="http://www.youtube.com/embed/ycS9kv-ioRA" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/C5t-wfHaxUs" frameborder="0" allowfullscreen></iframe>
 </div>
 
 All parts for this build:
