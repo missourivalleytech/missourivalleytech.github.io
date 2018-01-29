@@ -4,7 +4,7 @@ title:
 subtitle: Mostly keyboards, always tech
 # Custom Keyboards
 #widget1:
-#  title: "Stickerbombed HHKB"
+#  title: "Dasher Dancer DZ60"
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'IMAGE LINK HERE'
 #  text: ''
@@ -18,11 +18,11 @@ subtitle: Mostly keyboards, always tech
 #  url: 'LINK TO BLOG POST'
 #  image: 'LINK TO IMAGE'
 #  text: 'Carbon Fiber Case'  
-#widget4:
-#  title: "Dasher & Dancer DZ60"
-#  url: 'LINK_TO_BLOG_POST'
-#  image: 'LINK_TO_IMAGE'
-#  text: ''
+widget4:
+  title: "Stickerbomb DZ60"
+  url: '/keyboards/2018-01-15-2-Stickerbomb-DZ60-Build-Log'
+  image: 'https://imgur.com/bVUnqAh.jpg'
+  text: ''
 widget5:
   title: "Iris Brown Alps"
   url: '/keyboards/2017-12-18-2-Brown-Alps-Iris-Build-Log'

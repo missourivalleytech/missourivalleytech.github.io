@@ -9,7 +9,7 @@ categories:
 image:
     title: https://imgur.com/sALsXma.jpg
     homepage: https://imgur.com/sALsXma.jpg
-    thumb: https://imgur.com/sALsXma.jpg
+    thumb: https://imgur.com/bVUnqAh.jpg
     caption:
     caption_url:
 breadcrumb: true
