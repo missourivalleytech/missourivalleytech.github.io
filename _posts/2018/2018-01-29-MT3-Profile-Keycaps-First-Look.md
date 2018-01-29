@@ -26,4 +26,4 @@ Massdrop encountered many production difficulties while readying this set (which
 I've been a big advocate for SA profile keycaps for a long time, but there's a very good chance that MT3 will be my new go-to keycap profile.
 
 ---
-<p align="right">Typed on ErgoDox Test Board</p>
+<p align="right">RedScarf II Ver.D</p>
