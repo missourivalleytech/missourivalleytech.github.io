@@ -64,5 +64,7 @@ Of course, I can't leave well alone, so I have modifications planned for this bo
 + Keycaps
   + The stock sculpted DCS profile keycaps are great, but I may want to swap in all DSA profile or SA profile keys. I haven't decided yet.
 
+Next: [The Stapleberg Controller]({{ site.baseurl }}/keyboards/2018-01-05-The-Stapleberg-Controller)
+
 ---
 <p align="right">Typed on Blue Alps64</p>
