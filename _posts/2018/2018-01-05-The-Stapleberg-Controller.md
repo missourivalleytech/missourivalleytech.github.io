@@ -15,6 +15,7 @@ image:
 breadcrumb: true
 comments: true
 ---
+Previously: [Kinesis Contoured]({{ site.baseurl }}/keyboards/2017-02-09-Kinesis-Countoured-Model-110)
 
 <center>
 <a href="https://imgur.com/EIQ8fod.jpg" data-fancybox>
@@ -37,6 +38,8 @@ I've long been fascinated with Kinesis Advantage keyboards, since before I was e
 I bought this Stapleberg controller with the intent of using it to modernize my Model 110. As it turns out, the Stapleberg is only compatible with modern Advantage style keywell and thumb cluster PCBs, so I will need to source all new internals for my Model 110 - this isn't a big deal though as my Model 110 isn't fully functional anyway.
 
 In order to complete this rebuild, I'll likely need to replace every single internal component in my Model 110, but the result will be a fully modern, fully programmable keyboard.
+
+Next: [Kinesis Reloaded: Day 1]({{ site.baseurl }}/keyboards/KINESIS-RELOADED-POST)
 
 ---
 <p align="right">Typed on Dasher & Dancer DZ60</p>
