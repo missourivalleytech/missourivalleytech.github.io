@@ -1,8 +1,8 @@
 ---
 layout: page
 title: "Gruber on HomePod"
-subheadline: "John Gruber reviews HomePod in fewer than 140 characters."
-teaser: ""
+subheadline: ""
+teaser: "John Gruber reviews HomePod in fewer than 140 characters."
 author: Morgan
 categories:
   - apple
