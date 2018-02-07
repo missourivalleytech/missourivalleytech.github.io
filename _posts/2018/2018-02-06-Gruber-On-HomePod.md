@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "HomePod, From an Audiophile's Perspective"
-subheadline: ""
-teaser: "A Reddit member's take on HomePod in an early preview."
+title: "Gruber on HomePod"
+subheadline: "John Gruber reviews HomePod in fewer than 140 characters."
+teaser: ""
 author: Morgan
 categories:
   - apple
@@ -20,7 +20,9 @@ comments: true
 
 > I’ve been testing Apple’s new HomePod for the last week or so, and this is the first product review I’ve written that could be accurately summarized in the length of a tweet, and an old-school 140-character tweet at that: HomePod does exactly what Apple says it does, doesn’t do anything more than what Apple says it does, and costs $349. There.
 
-Good review. Gruber’s impressions line up with most of the other reviews. For primary objectives Apple appears to have nailed it. 
+Click through to read the full review.
+
+Gruber’s impressions line up with most of the other reviews. For primary objectives Apple appears to have nailed it. 
 
 + An amazing small speaker - **Done**
 + Siri as primary interaction model for HomePod - **Done**
