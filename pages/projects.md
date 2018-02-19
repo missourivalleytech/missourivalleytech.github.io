@@ -4,111 +4,110 @@ title:
 subtitle: Mostly keyboards, always tech
 # Custom Keyboards
 #widget1:
-#  title: "Dasher Dancer DZ60"
-#  url: 'LINK_TO_BLOG_POST'
-#  image: 'IMAGE LINK HERE'
-#  text: ''
-# widget2:
-#  title: "Tina C"
-#  url: 'LINK TO BLOG POST'
-#  image: 'LINK TO IMAGE'
-#  text: 'Chocolatier SA'
-#widget3:
 #  title: "ErgoDox"
 #  url: 'LINK TO BLOG POST'
 #  image: 'LINK TO IMAGE'
 #  text: 'Carbon Fiber Case'  
+#widget2:
+#  title: "Dasher Dancer DZ60"
+#  url: 'LINK_TO_BLOG_POST'
+#  image: 'IMAGE LINK HERE'
+#  text: ''
+# widget3:
+#  title: "Tina C"
+#  url: 'LINK TO BLOG POST'
+#  image: 'LINK TO IMAGE'
+#  text: 'Chocolatier SA'
 widget4:
+  title: "Kinesis"
+  url: '/Kinesis_Reloaded'
+  image: 'https://imgur.com/OAg7NTH'
+  text: ''  
+widget5:
   title: "Stickerbomb DZ60"
   url: '/keyboards/2018-01-15-2-Stickerbomb-DZ60-Build-Log'
   image: 'https://imgur.com/bVUnqAh.jpg'
   text: ''
-widget5:
+widget6:
   title: "Iris Brown Alps"
   url: '/keyboards/2017-12-18-2-Brown-Alps-Iris-Build-Log'
   image: 'https://imgur.com/2TazCiU.jpg'
   text: ''
-widget6:
+widget7:
   title: "Xmas Tree PCB"
   url: '/keyboards/2017-12-23-The-Christmas-Tree-Macropad'
   image: 'https://imgur.com/GEO255W.jpg'
   text: ''    
-widget7:
+widget8:
   title: "Red Scarf II Ver.D"
   url: '/keyboards/2017-11-07-RedScarf-II-Ver-D-Build-Log'
   image: 'https://imgur.com/dqOY03o.jpg'
   text: ''
-widget8:
+widget9:
   title: "ErgoDox"
   url: '/ErgoDox_Omnibus'
   image: 'http://imgur.com/qhbO2g6.jpg'
   text: 'Steel Case'
-widget9:
+widget10:
   title: "Satan GH60"
   url: '/keyboards/2016-04-19-Satan-GH60-Build-Log'
   image: 'http://i.imgur.com/qcXwtmb.jpg'
   text: ''    
-widget10:
+widget11:
   title: "White Alps64"
   url: '/keyboards/2016-02-24-1-White-Alps-Build-Log'
   image: 'https://i.imgur.com/qgTvkKA.jpg'
   text: ''
-widget11:
+widget12:
   title: "Blue Alps64"
   url: '/keyboards/2016-04-04-Blue-Alps-Build-Log'
   image: 'http://i.imgur.com/4yWwahi.jpg'
   text: ''
-widget12:
+widget13:
   title: "Orange Alps64"
   url: '/keyboards/2016-01-20-1-Orange-Alps64-Build-Log'
   image: 'http://i.imgur.com/foItOtnm.jpg'
   text: ''    
-widget13:
+widget14:
   title: "Planck"
   url: '/keyboards/2016-03-02-Building-Planck'
   image: 'https://i.imgur.com/SJRAW2c.jpg'
   text: ''
-widget14:
+widget15:
   title: "Clueboard"
   url: '/keyboards/2016-06-01-Clueboard-Build-Log'
   image: 'http://imgur.com/xJlWYbM.jpg'
   text: ''
-widget15:
+widget16:
   title: "Golbat"
   url: '/keyboards/2016-07-16-Golbat-Build-Log'
   image: 'http://i.imgur.com/McyXI2A.jpg'
   text: ''
-#widget16:
+#widget17:
 #  title: "Widget 16"
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'LINK_TO_IMAGE'
 #  text: ''    
-#widget17:
+#widget18:
 #  title: "Widget 17"
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'LINK_TO_IMAGE'
 #  text: ''
-#widget18:
+#widget19:
 #  title: "Widget 18"
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'LINK_TO_IMAGE'
 #  text: ''
-# widget19:
+# widget20:
 #  title: "Widget 19"
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'LINK_TO_IMAGE'
 #  text: ''    
-#widget20:
+#widget21:
 #  title: "Widget 20"
 #  url: 'LINK_TO_BLOG_POST'
 #  image: 'LINK_TO_IMAGE'
 #  text: ''
-#widget21:
-#  title: "Widget 21"
-#  url: 'LINK_TO_BLOG_POST'
-#  image: 'LINK_TO_IMAGE'
-#  text: ''
-#
 # MODIFIED Keyboards
 #
 widget22:
