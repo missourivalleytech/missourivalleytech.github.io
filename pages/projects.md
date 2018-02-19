@@ -21,7 +21,7 @@ subtitle: Mostly keyboards, always tech
 widget4:
   title: "Kinesis"
   url: '/Kinesis_Reloaded'
-  image: 'https://imgur.com/OAg7NTH'
+  image: 'https://imgur.com/OAg7NTH.jpg'
   text: ''  
 widget5:
   title: "Stickerbomb DZ60"
