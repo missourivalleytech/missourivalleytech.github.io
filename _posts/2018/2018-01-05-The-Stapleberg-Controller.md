@@ -39,7 +39,7 @@ I bought this Stapleberg controller with the intent of using it to modernize my 
 
 In order to complete this rebuild, I'll likely need to replace every single internal component in my Model 110, but the result will be a fully modern, fully programmable keyboard.
 
-Next: [Kinesis Reloaded: Day 1]({{ site.baseurl }}/keyboards/KINESIS-RELOADED-POST)
+Next: [Kinesis Reloaded: Day 1]({{ site.baseurl }}/keyboards/2018-01-30-Kinesis-Reloaded-Day-1)
 
 ---
 <p align="right">Typed on Dasher & Dancer DZ60</p>

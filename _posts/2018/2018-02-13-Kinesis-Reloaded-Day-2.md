@@ -133,5 +133,7 @@ With the Fkey rows sorted out, all parts of the build were validated and I knew 
 
 Stay tuned!
 
+Next: [Kinesis Reloaded: Day 3]({{ site.baseurl }}/keyboards/2018-02-20-Kinesis-Reloaded-Day-3)
+
 ---
 <p align="right">Typed on Blue Alps64</p>

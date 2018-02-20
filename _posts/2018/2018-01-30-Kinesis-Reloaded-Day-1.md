@@ -77,5 +77,7 @@ Going into the work on Sunday, I'd really hoped to get the project _complete_, a
 
 Once the project is complete, I'll have a video up on my YouTube channel as well. Stay tuned for more on this!
 
+Next: [Kinesis Reloaded: Day 2]({{ site.baseurl }}/keyboards/2018-02-13-Kinesis-Reloaded-Day-2)
+
 ---
 <p align="right">Typed on Blue Alps64</p>
