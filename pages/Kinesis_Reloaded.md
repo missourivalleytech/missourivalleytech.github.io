@@ -5,7 +5,9 @@ subtitle: Modification Log - Kinesis Contoured Model 110
 permalink: "/Kinesis_Reloaded"
 ---
 
-![](https://imgur.com/q9jLlU4.jpg)
+<div class="video-responsive">
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/ab1uCwgTTe0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 Posts & video log detailing the work on my reloaded, overhauled, and modernized Kinesis Contoured Model 110.
 
