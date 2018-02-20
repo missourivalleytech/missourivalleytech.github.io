@@ -19,7 +19,7 @@ comments: true
 Previously: [Kinesis Reloaded: Day 2]({{ site.baseurl }}/keyboards/2018-02-13-Kinesis-Reloaded-Day-2)
 
 <div class="video-responsive">
-    <iframe width="640" height="360" src="http://www.youtube.com/embed/ycS9kv-ioRA" frameborder="0" allowfullscreen></iframe>
+    <iframe width="640" height="360" src="http://www.youtube.com/embed/ab1uCwgTTe0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 Once again welcome back, loyal readers. This will be the final post in the Kinesis Reloaded series. After ages of dreaming of a Kinesis of my own, and year of acquiring parts - the Kinesis Contoured is finally complete!
