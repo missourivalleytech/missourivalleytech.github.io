@@ -27,9 +27,7 @@ The effect of the mod is to remove any pretravel between the stem and click mech
 
 The jailhouse mod creates a very quiet, highly tactile switch. The feel is akin to heavier tactile switches like 78g Zealios. 
 
-For this mod I used JSpacers from TheVanKeyboards. They are available for purchase [here](https://thevankeyboards.com/products/jspacers?variant=32991463758)
-
-https://youtu.be/RSNDozrqji4
+For this mod I used JSpacers from TheVanKeyboards. They are available for purchase [here](https://thevankeyboards.com/products/jspacers?variant=32991463758).
 
 ---
 <p align="right">Typed on Git2Go</p>
